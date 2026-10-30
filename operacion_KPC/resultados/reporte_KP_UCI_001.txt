@@ -1,0 +1,24 @@
+========================================
+INFORME - OPERACION KPC
+========================================
+Generado el: Fri Oct 30 10:12:00 PM UTC 2026
+Fecha del analisis: 30/10/2026
+Aislado: KP_UCI_001
+
+=== ANALISIS DE SECUENCIA ===
+ADN: ATGTACCCGCCGGGGGGTCCTGGCGTGATGCCGTGGCGGGCCCCATCCACCGAAAGATAA
+Longitud exacta: 60 nucleotidos
+Inicio 5': ATG
+Extremo 3': TAA
+
+=== TRANSCRIPCION ===
+ARNm: AUGUACCCGCCGGGGGGUCCUGGCGUGAUGCCGUGGCGGGCCCCAUCCACCGAAAGAUAA
+Longitud ARN: 60 bases
+
+=== GENES DE RESISTENCIA ===
+Lista completa: blaKPC-2,blaSHV-11,blaTEM-1,ompK36
+Gen principal: blaKPC-2
+Ultimo gen: ompK36
+Resto de genes: blaSHV-11,blaTEM-1,ompK36
+
+Analisis completado.
