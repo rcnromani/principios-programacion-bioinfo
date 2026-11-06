@@ -1,0 +1,11 @@
+==================================
+    OPERACION EXPEDIENTE GENOMA
+==================================
+Responsable : Rodolfo Nuñez Romani
+Organismo   : Klebsiella pneumoniae
+Cepa        : KP_UCI_001
+Muestra     : Klebsiella pneumoniae_KP_UCI_001_v1
+Herramienta : fastqc
+Fecha       : 2026-11-06
+==================================
+Estado: $ESTADO
