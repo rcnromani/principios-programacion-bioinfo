@@ -1,7 +1,7 @@
 
 #!/bin/bash
 # Autor: Rodolfo Carlo Nuñez Romani
-# Clave de agente: COMPLETAR
+# Clave de agente: No asignada
 # Actividad C: Estructura de un experimento de PCR
 
 mkdir -p Experimento_RNA

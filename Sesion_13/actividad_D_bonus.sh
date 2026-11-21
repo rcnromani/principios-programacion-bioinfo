@@ -1,7 +1,7 @@
 
 #!/bin/bash
 # Autor: Rodolfo Carlo Nuñez Romani
-# Clave de agente: COMPLETAR
+# Clave de agente: No asignada
 # Actividad D: Procesamiento por lote
 
 SECUENCIAS=("ATCGATCG" "GCTAGCTAGCTAGCTA" "AAAATTTTCCCCGGGG" "ATCGATCGATCGATCG")
