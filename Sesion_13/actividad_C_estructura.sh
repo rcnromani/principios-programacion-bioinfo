@@ -1,7 +1,7 @@
 
 #!/bin/bash
 # Autor: Rodolfo Carlo Nuñez Romani
-# Clave de agente: No asignada
+# Clave de agente: KPC-001
 # Actividad C: Estructura de un experimento de PCR
 
 mkdir -p Experimento_RNA

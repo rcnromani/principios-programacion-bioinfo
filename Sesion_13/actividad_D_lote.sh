@@ -1,7 +1,7 @@
 
 #!/bin/bash
 # Autor: Rodolfo Carlo Nuñez Romani
-# Clave de agente: No asignada
+# Clave de agente: KPC-001
 # Actividad D: Procesamiento por lote
 
 SECUENCIAS=("ATCGATCG" "GCTAGCTAGCTAGCTA" "AAAATTTTCCCCGGGG" "ATCGATCGATCGATCG")
